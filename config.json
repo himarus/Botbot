@@ -1,7 +1,7 @@
 {
-  "admins": [100087212564100],
-  "moderators": [100087212564100],
-  "developers": [100087212564100],
+  "admins": ["100087212564100"],
+  "moderators": [],
+  "developers": [],
   "Prefix": [
     "-"
   ],
